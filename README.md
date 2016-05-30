@@ -2,6 +2,11 @@
 
 Getting and cleaning data project assignment
 
+This project transforms the raw Human Activity Recognition Using Smartphones Dataset from www.smartlab.ws (Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012) into a tidy data set.
+
+The source data and code books are available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+
 
 
 #How to run the script:
